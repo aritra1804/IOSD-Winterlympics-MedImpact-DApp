@@ -1,0 +1,142 @@
+.billingtop{
+    height: 160px;
+    background: #E8E7FE;
+    display: flex;
+    border: 1px solid #4F46E5;
+}
+
+.billingtoph1{
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 40px;
+}
+
+.billingbottom{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.billingform{
+    height: auto;
+    width: 50%;
+    left: 4981px;
+    border-radius: 0px;
+    background: #F5F5F5;
+    margin-bottom: 25px;
+}
+
+.formhead{
+    background: #4CCCC0;
+    padding: 19px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+
+.forminput{
+    margin-top: 14px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+
+.formlabel{
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-start;
+    margin-top: 14px;
+    column-gap: 359px;
+    padding: 7px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.formlabeldropdown{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 14px;
+}
+
+.formfields{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+.formsubmit{
+    width: 223px;
+    height: 37px;
+    border: #4CCCC0 1px solid;
+    border-radius: 5px;
+    background-color: #4CCCC0;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 42px;
+    margin-bottom: 20px;
+}
+.formsubmit:hover{
+    background-color: white;
+    color: #4CCCC0;
+}
+.totalmoney{
+    margin-top: 40px;
+    /* width: 195px; */
+    height: 25px;
+    display: flex;
+    margin-left: 73px;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #777575;
+}
+
+.label{
+    color: black;
+}
+
+.date{
+    background: #E5E5E5;
+}
+
+.medicinename{
+    margin-right: 3px;
+    margin-top: 14px;
+}
+
+.medicinequantity{
+    width: 15%;
+    margin-top: 7px;
+    margin-left: 90px;
+    padding-left: 8px;
+}
+
+.removebutton{
+    width: fit-content;
+    background: #4CCCC0;
+    border-radius: 5px;
+    color: white;
+    margin-right: 14px;
+    margin-left: 10px;
+    padding: 7px;
+    margin-top:  6px;
+}
+
+.addbutton{
+    width: fit-content;
+    background: #4CCCC0;
+    border-radius: 5px;
+    color: white;
+    margin-right: 14px;
+    padding: 7px;
+    margin-top: 6px;
+}

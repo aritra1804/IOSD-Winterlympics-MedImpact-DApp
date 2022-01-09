@@ -1,0 +1,23 @@
+
+.Container{
+    background-color: #ddf0ee;
+}
+
+.row{
+    width: 90%;
+    margin-bottom: 40px;
+}
+.records{
+    width: 100%;
+    margin-bottom: 20px;
+    margin-top: -30px;
+}
+.records-text{
+    font-size: 40px;
+    font-family: inherit;
+    font-weight: 600;
+    text-align: left;
+    padding-left: 4%;
+    padding-top: auto;
+    padding-top: 5%;
+}
